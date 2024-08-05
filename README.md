@@ -70,7 +70,7 @@ https://pixeller.net/
 [![AWS Shield](https://img.shields.io/badge/AWS%20Shield-527FFF?style=flat&logo=amazonaws)](https://aws.amazon.com/shield/)
 
 ## 내가 한 작업
-- CORS 설 및 프로젝트 기초 틀 잡기
+- CORS 설계 및 프로젝트 기초 틀 잡기
 - React와 WS 게임 동기화 서버 파일인 chat.gateway.ts 구현 (게임서버인데 파일이름이 chat인 이유는 원래 chat도 nest에서 처리하려고 했었음...)
 - jwt를 활용한 REST 인증모듈 구현
 
